@@ -1,0 +1,100 @@
+2024-07-16 23:46:14,876 - WARNING -  * Debugger is active!
+2024-07-16 23:46:14,882 - INFO -  * Debugger PIN: 131-818-576
+2024-07-16 23:49:01,976 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-16 23:49:01,977 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-16 23:49:01,984 - INFO -  * Restarting with stat
+2024-07-16 23:49:02,586 - WARNING -  * Debugger is active!
+2024-07-16 23:49:02,597 - INFO -  * Debugger PIN: 131-818-576
+2024-07-16 23:49:08,948 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-16 23:49:08,949 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-16 23:49:08,955 - INFO -  * Restarting with stat
+2024-07-16 23:49:09,501 - WARNING -  * Debugger is active!
+2024-07-16 23:49:09,507 - INFO -  * Debugger PIN: 131-818-576
+2024-07-16 23:49:36,579 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-16 23:49:36,579 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-16 23:49:36,588 - INFO -  * Restarting with stat
+2024-07-16 23:49:37,079 - WARNING -  * Debugger is active!
+2024-07-16 23:49:37,089 - INFO -  * Debugger PIN: 131-818-576
+2024-07-16 23:50:16,579 - INFO - Order found: {'category': 'Chinese Fast Foods', 'status': 'Preparing'}
+2024-07-16 23:50:16,580 - INFO - 127.0.0.1 - - [16/Jul/2024 23:50:16] "GET /order/1 HTTP/1.1" 200 -
+2024-07-16 23:50:56,558 - INFO - Order found: {'category': 'Indian Vegetarian', 'status': 'Preparing'}
+2024-07-16 23:50:56,561 - INFO - 127.0.0.1 - - [16/Jul/2024 23:50:56] "GET /order/2 HTTP/1.1" 200 -
+2024-07-16 23:51:04,124 - INFO - Order found: {'category': 'Tea / Coffee', 'status': 'Preparing'}
+2024-07-16 23:51:04,125 - INFO - 127.0.0.1 - - [16/Jul/2024 23:51:04] "GET /order/3 HTTP/1.1" 200 -
+2024-07-16 23:51:10,854 - WARNING - Order not found: 4
+2024-07-16 23:51:10,854 - INFO - 127.0.0.1 - - [16/Jul/2024 23:51:10] "[33mGET /order/4 HTTP/1.1[0m" 404 -
+2024-07-16 23:52:04,306 - INFO - Order found: {'category': 'Chinese Fast Foods', 'status': 'Preparing'}
+2024-07-16 23:52:04,306 - INFO - 127.0.0.1 - - [16/Jul/2024 23:52:04] "GET /order/1 HTTP/1.1" 200 -
+2024-07-16 23:55:16,989 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\Restaurant\\Restaurent\\apps\\app.py', reloading
+2024-07-16 23:55:17,031 - INFO -  * Restarting with stat
+2024-07-16 23:55:17,464 - WARNING -  * Debugger is active!
+2024-07-16 23:55:17,471 - INFO -  * Debugger PIN: 131-818-576
+2024-07-16 23:55:44,329 - INFO - Fetching all orders
+2024-07-16 23:55:44,330 - INFO - 127.0.0.1 - - [16/Jul/2024 23:55:44] "GET /orders HTTP/1.1" 200 -
+2024-07-16 23:56:41,348 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-16 23:56:41,349 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-16 23:56:41,354 - INFO -  * Restarting with stat
+2024-07-16 23:56:41,735 - WARNING -  * Debugger is active!
+2024-07-16 23:56:41,741 - INFO -  * Debugger PIN: 131-818-576
+2024-07-16 23:56:45,440 - INFO - Fetching all orders {1: {'category': 'Chinese Fast Foods', 'status': 'Preparing'}, 2: {'category': 'Indian Vegetarian', 'status': 'Preparing'}, 3: {'category': 'Tea / Coffee', 'status': 'Preparing'}}
+2024-07-16 23:56:45,441 - INFO - 127.0.0.1 - - [16/Jul/2024 23:56:45] "GET /orders HTTP/1.1" 200 -
+2024-07-16 23:59:53,045 - INFO - Order created: {'category': 'Mexican Fast Foods', 'status': 'Preparing'}
+2024-07-16 23:59:53,045 - INFO - 127.0.0.1 - - [16/Jul/2024 23:59:53] "[35m[1mPOST /order HTTP/1.1[0m" 201 -
+2024-07-17 00:01:18,638 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\Restaurant\\Restaurent\\apps\\app.py', reloading
+2024-07-17 00:01:18,696 - INFO -  * Restarting with stat
+2024-07-17 00:21:28,806 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-17 00:21:28,806 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-17 00:21:28,811 - INFO -  * Restarting with stat
+2024-07-17 00:21:29,193 - WARNING -  * Debugger is active!
+2024-07-17 00:21:29,199 - INFO -  * Debugger PIN: 131-818-576
+2024-07-17 00:21:37,538 - INFO - Order created: {'category': 'Mexican Fast Foods', 'status': 'Preparing'}
+2024-07-17 00:21:37,538 - INFO - 127.0.0.1 - - [17/Jul/2024 00:21:37] "[35m[1mPOST /order HTTP/1.1[0m" 201 -
+2024-07-17 00:21:40,613 - INFO - Order created: {'category': 'Mexican Fast Foods', 'status': 'Preparing'}
+2024-07-17 00:21:40,613 - INFO - 127.0.0.1 - - [17/Jul/2024 00:21:40] "[35m[1mPOST /order HTTP/1.1[0m" 201 -
+2024-07-17 00:24:34,440 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\Restaurant\\Restaurent\\apps\\constants.py', reloading
+2024-07-17 00:24:34,489 - INFO -  * Restarting with stat
+2024-07-17 00:24:34,989 - WARNING -  * Debugger is active!
+2024-07-17 00:24:34,997 - INFO -  * Debugger PIN: 131-818-576
+2024-07-17 00:25:04,233 - INFO - Order created: {'category': 'Mexican Fast Foods', 'status': 'Preparing'}
+2024-07-17 00:25:04,233 - INFO - 127.0.0.1 - - [17/Jul/2024 00:25:04] "[35m[1mPOST /order HTTP/1.1[0m" 201 -
+2024-07-17 00:25:06,904 - INFO - Order created: {'category': 'Mexican Fast Foods', 'status': 'Preparing'}
+2024-07-17 00:25:06,904 - INFO - 127.0.0.1 - - [17/Jul/2024 00:25:06] "[35m[1mPOST /order HTTP/1.1[0m" 201 -
+2024-07-17 00:25:08,107 - INFO - Order created: {'category': 'Mexican Fast Foods', 'status': 'Preparing'}
+2024-07-17 00:25:08,108 - INFO - 127.0.0.1 - - [17/Jul/2024 00:25:08] "[35m[1mPOST /order HTTP/1.1[0m" 201 -
+2024-07-17 00:27:23,846 - INFO - Order updated: {'category': 'Mexican Fast Foods', 'status': 'Order updated'}
+2024-07-17 00:27:23,846 - INFO - 127.0.0.1 - - [17/Jul/2024 00:27:23] "PUT /order/4 HTTP/1.1" 200 -
+2024-07-17 00:28:03,552 - INFO - Order updated: {'category': 'Chinese Fast Foods', 'status': 'Order updated'}
+2024-07-17 00:28:03,553 - INFO - 127.0.0.1 - - [17/Jul/2024 00:28:03] "PUT /order/1 HTTP/1.1" 200 -
+2024-07-17 00:29:17,214 - INFO - Order deleted: 1
+2024-07-17 00:29:17,214 - INFO - 127.0.0.1 - - [17/Jul/2024 00:29:17] "DELETE /order/1 HTTP/1.1" 200 -
+2024-07-17 00:30:22,372 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-17 00:30:22,372 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-17 00:30:22,376 - INFO -  * Restarting with stat
+2024-07-17 00:30:22,740 - WARNING -  * Debugger is active!
+2024-07-17 00:30:22,747 - INFO -  * Debugger PIN: 131-818-576
+2024-07-17 00:30:26,267 - INFO - Order deleted: 1 and orders are {2: {'category': 'Indian Vegetarian', 'status': 'Preparing'}, 3: {'category': 'Tea / Coffee', 'status': 'Preparing'}}
+2024-07-17 00:30:26,269 - INFO - 127.0.0.1 - - [17/Jul/2024 00:30:26] "DELETE /order/1 HTTP/1.1" 200 -
+2024-07-17 00:31:35,950 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\Restaurant\\Restaurent\\apps\\app.py', reloading
+2024-07-17 00:31:35,997 - INFO -  * Restarting with stat
+2024-07-17 00:31:36,454 - WARNING -  * Debugger is active!
+2024-07-17 00:31:36,461 - INFO -  * Debugger PIN: 131-818-576
+2024-07-17 00:46:12,565 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\Restaurant\\Restaurent\\apps\\app.py', reloading
+2024-07-17 00:46:12,607 - INFO -  * Restarting with stat
+2024-07-17 00:46:13,097 - WARNING -  * Debugger is active!
+2024-07-17 00:46:13,104 - INFO -  * Debugger PIN: 131-818-576
+2024-07-17 00:51:55,829 - INFO -  * Detected change in 'C:\\Users\\lenovo\\PycharmProjects\\Restaurant\\Restaurent\\apps\\app.py', reloading
+2024-07-17 00:51:55,867 - INFO -  * Restarting with stat
+2024-07-17 00:51:56,241 - WARNING -  * Debugger is active!
+2024-07-17 00:51:56,249 - INFO -  * Debugger PIN: 131-818-576
+2024-07-17 00:52:18,175 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-17 00:52:18,175 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-17 00:52:18,180 - INFO -  * Restarting with stat
+2024-07-17 00:52:18,536 - WARNING -  * Debugger is active!
+2024-07-17 00:52:18,544 - INFO -  * Debugger PIN: 131-818-576
